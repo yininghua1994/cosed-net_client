@@ -35,7 +35,7 @@ class Landing extends React.Component {
                         <Form.Group>
                             <label className="thermal-file-upload">
                                 <input type="file" onChange={this.handleChange} accept=".jpg, .jpeg, .png" />
-                                <span className="thermal-file-text">Upload Retinal Image</span>    
+                                <span className="thermal-file-text">Upload Skin Image</span>    
                             </label>
                         </Form.Group>
                     </Form>
